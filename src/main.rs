@@ -2,6 +2,7 @@
 use std::io;
 use std::collection::HashMap;
 
+
 #[derive(Debug, Clone)]
 struct Bill {
     name: String,
